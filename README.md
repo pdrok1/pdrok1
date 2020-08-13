@@ -1,5 +1,13 @@
-### Hi there 👋
-
+Developer pedro = new Developer(){
+  name: "Pedro Queiroz",
+  birth: new Date(2001, 07, 05),
+  living: "Barueri, SP - Brazil",
+  stacks: new List<String>("ASP.NET", "Java Spring", "JavaScript"),
+  desc: "Passionate on learning! An open book 📖",
+  contact: "pedroqueiroz75@hotmail.com"
+}
+  
+ I'm currently learning more about Spring MVC and web developing
 <!--
 **pdrok1/pdrok1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -9,7 +17,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
